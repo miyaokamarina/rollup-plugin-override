@@ -5,6 +5,13 @@
     "repository": "https://github.com/miyaokamarina/rollup-plugin-override",
     "author": "Yuri Zemskov <miyaokamarina@gmail.com> (https://twitter.com/miyaokamarina)",
     "license": "MIT",
+    "keywords": [
+        "rollup",
+        "plugin",
+        "rollup-plugin",
+        "replace",
+        "define"
+    ],
     "packageManager": "yarn@3.6.4",
     "scripts": {
         "make": "tsc --build",
